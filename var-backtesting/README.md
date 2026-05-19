@@ -8,4 +8,4 @@
 
 Download `prices.csv` and `returns.csv` from the Drive link above.  
 Set `DATA_PATH` in Cell 2 to your local folder and run cells in order.  
-FHS calculation takes approximately 5–10 minutes.  
+FHS calculation takes approximately 5 minutes.  
